@@ -5,9 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bineth25&label=Profile%20views&color=0e75b6&style=flat" alt="bineth25"/> </p>
 
-
-<img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 - 🌱 I’m currently learning **MERN, Python, JAVA**
 - 🎓 I'm undergraduate at SLIIT 
 - 📫 How to reach me **hansadabineth0609@gmail.com**

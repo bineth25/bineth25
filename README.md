@@ -5,8 +5,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bineth25&label=Profile%20views&color=0e75b6&style=flat" alt="bineth25"/> </p>
 
-- 🌱 I’m currently learning **MERN, Python, JAVA**
-- 📫 How to reach me **hansadabineth0609@gmail.com**
+- 👨‍🎓 Data Science Undergraduate at <b>SLIIT</b>
+- 🤖 Exploring Machine Learning & AI
+- 🌱 Currently learning Python, Pandas, and Scikit-learn
+- 📫 How to reach me hansadabineth0609@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

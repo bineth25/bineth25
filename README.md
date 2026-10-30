@@ -4,4 +4,4 @@
 
 - Data Science Undergraduate at **SLIIT**
 - Exploring **AI/ML**
- How to reach me hansadabineth0609@gmail.com
+- How to reach me hansadabineth0609@gmail.com
